@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hola gente👋
 
-<!--
-**MonkeyTryhard/MonkeyTryhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Proyectos pasados de 2021:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Creepercraft (Octubre)
+- OwestMC Network (Alpha) (Diciembre)
+- Squid Game en Minecraft (Diciembre)
+
+Proyectos de 2022:
+
+- OwestMC Network (Beta) (Enero-Marzo)
+- The Minecraft World War (Julio-Septiembre)
+
+# Próximamente:
+
+- Evento de Minecraft Bedrock (Diciembre)
+- Launcher de Minecraft Custom para los proyectos (Diciembre)
+
+Proyectos para 2023:
+
+- MonkeOptimizations (un mod de optimización para las nuevas versiones) (???)
+- The Minecraft World War 2 con MODS (???)
+- OwestMC Network y MonkeyHosting (???)
+- ??? (El proyecto más grande)
